@@ -85,7 +85,7 @@
 
 		<archive>
 		   <manifest>
-		      <mainClass>com.mycompany.app.App</mainClass>
+		      <mainClass>com.mycompany.app.Apps</mainClass>
 		   </manifest>
 		</archive>
         </configuration>
